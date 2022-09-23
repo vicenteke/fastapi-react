@@ -1,0 +1,54 @@
+TASKS
+
+1) Backend inicial: alembic, postgres, sqlalchemy, fastapi, venv, script run backend, script install... (1 dia)
+2) Frontend inical: create react app, scrpts run frontend, script install... (1 dia)
+3) Desenho banco (0,5 dia)
+4) Desenho APIs (1 dia)
+5) Autenticação BE (0,5 dia)
+6) Autorização BE (1 dia)
+7) Logs APIs (0,5 dia)
+8) Login FE (1 dia)
+9) Menu + saldo (0,5 dia)
+10) Tela admin esqueleto (0,5 dia)
+11) Produtos (1 dia)
+12) Filtros de produtos (1 dia)
+13) Categorias (0,5 dia)
+14) Produto (1 dia)
+15) Carrinho (0,5 dia) (SWAL confirmar)
+16) Email (1,5 dia)
+17) Saldo + Extrato (user) (1 dia)
+19) CRUD 0 (categoria) (3 dias)
+20) CRUD usuário (1 dia)
+21) CRUD permissões (0,5 dia)
+22) CRUD role (0,5 dia)
+23) CRUD produto (1,5 dia)
+24) Tela de logs (0,5 dia)
+25) CRUD pontos (1 dia)
+26) Extrato de usuário (admin) (0,5 dia)
+27) Fazer mockups (3 dias)
+
+25,5 dias
+
+OPTATIVOS:
+27) Esquecer a senha (3 dias)
+
+
+
+2 meses desenvolvimento
+4 meses bugs e suporte
+
+
+Outros Pontos:
+Deploy nosso?
+Suporte precisa de acesso ao servidor
+
+Direito autoral sobre o código: nosso
+Direito sobre o uso da aplicação: empresa
+A agência não tem direito nem de uso nem intelectual sobre o software.
+
+9000 até 7500
+
+Pagamento:
+Aprovação de mockups e funcionalidades 30%
+Deploy: resto
+Suportes após 4 meses da entrega: negociado
